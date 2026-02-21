@@ -64,9 +64,9 @@ The dataset simulates a real-world cab booking system containing structured info
 ## 📁 Repository Structure
 ```
 Cab-Booking-System-SQL-Analysis
+│──Cab Booking System Analysis Project.sql
 │── screenshots/
 │── Problems
-│──Cab Booking System Analysis Project.sql
 │── README.md
 ```
 
